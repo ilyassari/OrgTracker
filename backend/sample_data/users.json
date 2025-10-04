@@ -1,0 +1,20 @@
+[
+    {
+      "username": "testuser1",
+      "email": "testuser1@orgtracker.com",
+      "password": "Test123456",
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_superuser": false
+    },
+    {
+      "username": "testuser2",
+      "email": "testuser2@orgtracker.com",
+      "password": "Test123456",
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_superuser": false
+    }
+  ]

@@ -1,0 +1,39 @@
+# Use official Python base image
+FROM python:3.11-alpine
+
+WORKDIR /usr/src/app
+
+ENV PYTHONDONTWRITEBYTECODE 1
+ENV PYTHONUNBUFFERED 1
+
+# Install dependencies including cron
+RUN apk update && apk add --no-cache \
+    gcc \
+    g++ \
+    libc-dev \
+    musl-dev \
+    python3-dev \
+    libffi-dev \
+    postgresql-dev \
+    bash \
+    cronie \
+    curl \
+    icu-data-full \
+    netcat-openbsd   # 'nc' komutu için
+
+# Upgrade pip
+RUN pip install --upgrade pip
+
+# Copy requirements and install
+COPY ./requirements.txt .
+RUN pip install -r requirements.txt
+
+# Copy project files
+COPY . .
+
+# Make entrypoint executable
+RUN chmod +x /usr/src/app/entrypoint.cron.sh
+
+# Set entrypoint
+ENTRYPOINT ["/usr/src/app/entrypoint.cron.sh"]
+

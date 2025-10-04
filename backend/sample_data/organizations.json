@@ -1,0 +1,653 @@
+[
+  {
+    "name": "Google Inc.",
+    "org_type": 1,
+    "nation": "US",
+    "founding_date": "1998-09-04",
+    "headcount": 156500
+  },
+  {
+    "name": "Microsoft Corporation",
+    "org_type": 1,
+    "nation": "US", 
+    "founding_date": "1975-04-04",
+    "headcount": 221000
+  },
+  {
+    "name": "Apple Inc.",
+    "org_type": 1,
+    "nation": "US",
+    "founding_date": "1976-04-01",
+    "headcount": 164000
+  },
+  {
+    "name": "Amazon.com Inc.",
+    "org_type": 1,
+    "nation": "US",
+    "founding_date": "1994-07-05",
+    "headcount": 1541000
+  },
+  {
+    "name": "Tesla Inc.",
+    "org_type": 1,
+    "nation": "US",
+    "founding_date": "2003-07-01",
+    "headcount": 127855
+  },
+  {
+    "name": "Meta Platforms Inc.",
+    "org_type": 1,
+    "nation": "US",
+    "founding_date": "2004-02-04",
+    "headcount": 86482
+  },
+  {
+    "name": "Netflix Inc.",
+    "org_type": 1,
+    "nation": "US",
+    "founding_date": "1997-08-29",
+    "headcount": 13000
+  },
+  {
+    "name": "Türk Telekom",
+    "org_type": 1,
+    "nation": "TR",
+    "founding_date": "1995-05-17",
+    "headcount": 38000
+  },
+  {
+    "name": "Türkiye İş Bankası",
+    "org_type": 1,
+    "nation": "TR",
+    "founding_date": "1924-08-26",
+    "headcount": 26500
+  },
+  {
+    "name": "Koç Holding",
+    "org_type": 1,
+    "nation": "TR",
+    "founding_date": "1963-04-12",
+    "headcount": 41000
+  },
+  {
+    "name": "Sabancı Holding",
+    "org_type": 1,
+    "nation": "TR",
+    "founding_date": "1967-01-09",
+    "headcount": 65000
+  },
+  {
+    "name": "BIM Birleşik Mağazalar",
+    "org_type": 1,
+    "nation": "TR",
+    "founding_date": "1995-03-05",
+    "headcount": 52000
+  },
+  {
+    "name": "Türk Hava Yolları",
+    "org_type": 1,
+    "nation": "TR",
+    "founding_date": "1933-05-20",
+    "headcount": 48500
+  },
+  {
+    "name": "ASELSAN",
+    "org_type": 1,
+    "nation": "TR",
+    "founding_date": "1975-01-31",
+    "headcount": 8900
+  },
+  {
+    "name": "TAI - Türk Havacılık",
+    "org_type": 1,
+    "nation": "TR",
+    "founding_date": "1984-06-15",
+    "headcount": 6500
+  },
+  {
+    "name": "Samsung Electronics",
+    "org_type": 1,
+    "nation": "KR",
+    "founding_date": "1969-01-13",
+    "headcount": 267000
+  },
+  {
+    "name": "LG Electronics",
+    "org_type": 1,
+    "nation": "KR",
+    "founding_date": "1958-01-05",
+    "headcount": 75000
+  },
+  {
+    "name": "Hyundai Motor",
+    "org_type": 1,
+    "nation": "KR",
+    "founding_date": "1967-12-29",
+    "headcount": 120000
+  },
+  {
+    "name": "Toyota Motor Corporation",
+    "org_type": 1,
+    "nation": "JP",
+    "founding_date": "1937-08-28",
+    "headcount": 375000
+  },
+  {
+    "name": "Sony Corporation",
+    "org_type": 1,
+    "nation": "JP",
+    "founding_date": "1946-05-07",
+    "headcount": 109700
+  },
+  {
+    "name": "Nintendo Co. Ltd.",
+    "org_type": 1,
+    "nation": "JP",
+    "founding_date": "1889-09-23",
+    "headcount": 7317
+  },
+  {
+    "name": "Nissan Motor Co.",
+    "org_type": 1,
+    "nation": "JP",
+    "founding_date": "1933-12-26",
+    "headcount": 131461
+  },
+  {
+    "name": "SAP SE",
+    "org_type": 1,
+    "nation": "DE",
+    "founding_date": "1972-04-01",
+    "headcount": 107415
+  },
+  {
+    "name": "Siemens AG",
+    "org_type": 1,
+    "nation": "DE",
+    "founding_date": "1847-10-01",
+    "headcount": 303000
+  },
+  {
+    "name": "Volkswagen Group",
+    "org_type": 1,
+    "nation": "DE",
+    "founding_date": "1937-05-28",
+    "headcount": 675000
+  },
+  {
+    "name": "BMW Group",
+    "org_type": 1,
+    "nation": "DE",
+    "founding_date": "1916-03-07",
+    "headcount": 149475
+  },
+  {
+    "name": "ASML Holding",
+    "org_type": 1,
+    "nation": "NL",
+    "founding_date": "1984-04-01",
+    "headcount": 35000
+  },
+  {
+    "name": "LVMH",
+    "org_type": 1,
+    "nation": "FR",
+    "founding_date": "1987-01-01",
+    "headcount": 213000
+  },
+  {
+    "name": "Nestlé S.A.",
+    "org_type": 1,
+    "nation": "CH",
+    "founding_date": "1866-01-01",
+    "headcount": 273000
+  },
+  {
+    "name": "ASEA Brown Boveri",
+    "org_type": 1,
+    "nation": "CH",
+    "founding_date": "1988-01-05",
+    "headcount": 105000
+  },
+  {
+    "name": "Tencent Holdings",
+    "org_type": 1,
+    "nation": "CN",
+    "founding_date": "1998-11-11",
+    "headcount": 104878
+  },
+  {
+    "name": "Alibaba Group",
+    "org_type": 1,
+    "nation": "CN",
+    "founding_date": "1999-04-04",
+    "headcount": 245700
+  },
+  {
+    "name": "ByteDance Ltd.",
+    "org_type": 1,
+    "nation": "CN",
+    "founding_date": "2012-03-01",
+    "headcount": 150000
+  },
+  {
+    "name": "BYD Company",
+    "org_type": 1,
+    "nation": "CN",
+    "founding_date": "1995-02-10",
+    "headcount": 570000
+  },
+  {
+    "name": "Startup Teknoloji",
+    "org_type": 2,
+    "nation": "TR",
+    "founding_date": "2018-03-15",
+    "headcount": 45
+  },
+  {
+    "name": "İnovaCorp",
+    "org_type": 2,
+    "nation": "TR",
+    "founding_date": "2020-01-10", 
+    "headcount": 12
+  },
+  {
+    "name": "TechStart İstanbul",
+    "org_type": 2,
+    "nation": "TR",
+    "founding_date": "2019-06-20",
+    "headcount": 28
+  },
+  {
+    "name": "Digital Solutions TR",
+    "org_type": 2,
+    "nation": "TR",
+    "founding_date": "2021-02-14",
+    "headcount": 18
+  },
+  {
+    "name": "AI Labs Türkiye",
+    "org_type": 2,
+    "nation": "TR",
+    "founding_date": "2020-09-30",
+    "headcount": 35
+  },
+  {
+    "name": "CloudTech Istanbul",
+    "org_type": 2,
+    "nation": "TR",
+    "founding_date": "2019-11-05",
+    "headcount": 22
+  },
+  {
+    "name": "MobileDev Ankara",
+    "org_type": 2,
+    "nation": "TR",
+    "founding_date": "2018-07-12",
+    "headcount": 16
+  },
+  {
+    "name": "DataMine Izmir",
+    "org_type": 2,
+    "nation": "TR",
+    "founding_date": "2020-04-18",
+    "headcount": 14
+  },
+  {
+    "name": "WebCraft Bursa",
+    "org_type": 2,
+    "nation": "TR",
+    "founding_date": "2017-12-03",
+    "headcount": 31
+  },
+  {
+    "name": "CyberSec Antalya",
+    "org_type": 2,
+    "nation": "TR",
+    "founding_date": "2021-08-25",
+    "headcount": 19
+  },
+  {
+    "name": "TechStart Berlin",
+    "org_type": 2,
+    "nation": "DE",
+    "founding_date": "2019-11-05",
+    "headcount": 28
+  },
+  {
+    "name": "InnovHub Munich",
+    "org_type": 2,
+    "nation": "DE",
+    "founding_date": "2020-03-12",
+    "headcount": 24
+  },
+  {
+    "name": "FinTech Hamburg",
+    "org_type": 2,
+    "nation": "DE",
+    "founding_date": "2018-09-20",
+    "headcount": 32
+  },
+  {
+    "name": "GreenTech Cologne",
+    "org_type": 2,
+    "nation": "DE",
+    "founding_date": "2021-01-15",
+    "headcount": 27
+  },
+  {
+    "name": "EduTech Paris",
+    "org_type": 2,
+    "nation": "FR",
+    "founding_date": "2019-04-08",
+    "headcount": 21
+  },
+  {
+    "name": "HealthTech London",
+    "org_type": 2,
+    "nation": "GB",
+    "founding_date": "2020-07-22",
+    "headcount": 38
+  },
+  {
+    "name": "AgriTech Amsterdam",
+    "org_type": 2,
+    "nation": "NL",
+    "founding_date": "2018-11-30",
+    "headcount": 26
+  },
+  {
+    "name": "BioTech Stockholm",
+    "org_type": 2,
+    "nation": "SE",
+    "founding_date": "2020-05-17",
+    "headcount": 29
+  },
+  {
+    "name": "SpaceTech Oslo",
+    "org_type": 2,
+    "nation": "NO",
+    "founding_date": "2021-03-04",
+    "headcount": 15
+  },
+  {
+    "name": "RoboTech Helsinki",
+    "org_type": 2,
+    "nation": "FI",
+    "founding_date": "2019-08-11",
+    "headcount": 33
+  },
+  {
+    "name": "GameDev Warsaw",
+    "org_type": 2,
+    "nation": "PL",
+    "founding_date": "2018-12-06",
+    "headcount": 41
+  },
+  {
+    "name": "CleanTech Prague",
+    "org_type": 2,
+    "nation": "CZ",
+    "founding_date": "2020-10-13",
+    "headcount": 23
+  },
+  {
+    "name": "BlockChain Budapest",
+    "org_type": 2,
+    "nation": "HU",
+    "founding_date": "2019-02-28",
+    "headcount": 17
+  },
+  {
+    "name": "Ali Veli İnşaat",
+    "org_type": 0,
+    "nation": "TR",
+    "founding_date": "2010-08-25",
+    "headcount": 3
+  },
+  {
+    "name": "Mehmet Usta Kebap",
+    "org_type": 0,
+    "nation": "TR",
+    "founding_date": "2015-06-12",
+    "headcount": 2
+  },
+  {
+    "name": "Ayşe Hanım Kuaför",
+    "org_type": 0,
+    "nation": "TR",
+    "founding_date": "2012-03-18",
+    "headcount": 1
+  },
+  {
+    "name": "Fatih Oto Elektrik",
+    "org_type": 0,
+    "nation": "TR",
+    "founding_date": "2008-11-22",
+    "headcount": 4
+  },
+  {
+    "name": "Hasan Abi Market",
+    "org_type": 0,
+    "nation": "TR",
+    "founding_date": "2005-01-30",
+    "headcount": 2
+  },
+  {
+    "name": "Gül Teyze Pastane",
+    "org_type": 0,
+    "nation": "TR",
+    "founding_date": "2018-04-14",
+    "headcount": 3
+  },
+  {
+    "name": "Osman Usta Marangoz",
+    "org_type": 0,
+    "nation": "TR",
+    "founding_date": "2011-07-08",
+    "headcount": 2
+  },
+  {
+    "name": "Zeynep Hanım Terzi",
+    "org_type": 0,
+    "nation": "TR",
+    "founding_date": "2016-09-25",
+    "headcount": 1
+  },
+  {
+    "name": "Mustafa Bey Mobilya",
+    "org_type": 0,
+    "nation": "TR",
+    "founding_date": "2009-12-15",
+    "headcount": 5
+  },
+  {
+    "name": "Emine Teyze Çiçek",
+    "org_type": 0,
+    "nation": "TR",
+    "founding_date": "2014-05-03",
+    "headcount": 2
+  },
+  {
+    "name": "Giuseppe's Pizza",
+    "org_type": 0,
+    "nation": "IT",
+    "founding_date": "2013-08-19",
+    "headcount": 3
+  },
+  {
+    "name": "Hans Auto Repair",
+    "org_type": 0,
+    "nation": "DE",
+    "founding_date": "2007-03-14",
+    "headcount": 2
+  },
+  {
+    "name": "Marie's Bakery",
+    "org_type": 0,
+    "nation": "FR",
+    "founding_date": "2011-10-07",
+    "headcount": 4
+  },
+  {
+    "name": "John's Plumbing",
+    "org_type": 0,
+    "nation": "US",
+    "founding_date": "2016-02-28",
+    "headcount": 3
+  },
+  {
+    "name": "Sakura Sushi Bar",
+    "org_type": 0,
+    "nation": "JP",
+    "founding_date": "2019-06-11",
+    "headcount": 2
+  },
+  {
+    "name": "Greenpeace Türkiye",
+    "org_type": 3,
+    "nation": "TR",
+    "founding_date": "1992-06-20",
+    "headcount": 85
+  },
+  {
+    "name": "Dünya Doğayı Koruma Vakfı",
+    "org_type": 3,
+    "nation": "TR",
+    "founding_date": "1996-09-11",
+    "headcount": 120
+  },
+  {
+    "name": "Türkiye Eğitim Derneği",
+    "org_type": 3,
+    "nation": "TR",
+    "founding_date": "1928-10-31",
+    "headcount": 95
+  },
+  {
+    "name": "Çevre ve Şehircilik Vakfı",
+    "org_type": 3,
+    "nation": "TR",
+    "founding_date": "1990-04-22",
+    "headcount": 72
+  },
+  {
+    "name": "Kızılay Türkiye",
+    "org_type": 3,
+    "nation": "TR",
+    "founding_date": "1868-06-11",
+    "headcount": 3500
+  },
+  {
+    "name": "Tema Vakfı",
+    "org_type": 3,
+    "nation": "TR",
+    "founding_date": "1992-09-15",
+    "headcount": 180
+  },
+  {
+    "name": "Darüşşafaka Cemiyeti",
+    "org_type": 3,
+    "nation": "TR",
+    "founding_date": "1863-03-01",
+    "headcount": 350
+  },
+  {
+    "name": "Türk Eğitim Vakfı",
+    "org_type": 3,
+    "nation": "TR",
+    "founding_date": "1967-03-08",
+    "headcount": 225
+  },
+  {
+    "name": "Çağdaş Yaşamı Destekleme Derneği",
+    "org_type": 3,
+    "nation": "TR",
+    "founding_date": "1994-11-12",
+    "headcount": 68
+  },
+  {
+    "name": "Tohumum Tohum Takas Ağı",
+    "org_type": 3,
+    "nation": "TR",
+    "founding_date": "2010-05-20",
+    "headcount": 25
+  },
+  {
+    "name": "Red Cross International",
+    "org_type": 3,
+    "nation": "CH",
+    "founding_date": "1863-02-17",
+    "headcount": 15500
+  },
+  {
+    "name": "Doctors Without Borders",
+    "org_type": 3,
+    "nation": "FR",
+    "founding_date": "1971-12-20",
+    "headcount": 45000
+  },
+  {
+    "name": "Oxfam International",
+    "org_type": 3,
+    "nation": "GB",
+    "founding_date": "1995-01-01",
+    "headcount": 21000
+  },
+  {
+    "name": "Amnesty International",
+    "org_type": 3,
+    "nation": "GB",
+    "founding_date": "1961-05-28",
+    "headcount": 7400
+  },
+  {
+    "name": "World Wildlife Fund",
+    "org_type": 3,
+    "nation": "CH",
+    "founding_date": "1961-09-11",
+    "headcount": 6000
+  },
+  {
+    "name": "UNICEF",
+    "org_type": 3,
+    "nation": "US",
+    "founding_date": "1946-12-11",
+    "headcount": 17000
+  },
+  {
+    "name": "Save the Children",
+    "org_type": 3,
+    "nation": "GB",
+    "founding_date": "1919-05-19",
+    "headcount": 25000
+  },
+  {
+    "name": "Habitat for Humanity",
+    "org_type": 3,
+    "nation": "US",
+    "founding_date": "1976-09-01",
+    "headcount": 2700
+  },
+  {
+    "name": "Care International",
+    "org_type": 3,
+    "nation": "US",
+    "founding_date": "1945-11-27",
+    "headcount": 20000
+  },
+  {
+    "name": "Plan International",
+    "org_type": 3,
+    "nation": "GB",
+    "founding_date": "1937-10-03",
+    "headcount": 10500
+  },
+  {
+    "name": "Acme Corp",
+    "org_type": 3,
+    "nation": "US",
+    "founding_date": "1940-01-01",
+    "headcount": 666
+  }
+]
