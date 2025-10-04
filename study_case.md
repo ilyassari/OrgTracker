@@ -10,8 +10,6 @@ Zorunlu olmayan görevlerin yapılması artı olarak değerlendirilecektir.
 
 Geliştirme süreciyle ilgili görüşme yapılacaktır.  
 
-Proje Github üzerinden gizli (private) repo olarak paylaşılmalı ve <https://github.com/noviteam> hesabına erişim izni gönderilmelidir.  
-
 **Teslim Süresi:** 5 gün  
   
 ---
